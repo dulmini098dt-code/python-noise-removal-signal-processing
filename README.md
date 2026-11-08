@@ -54,9 +54,9 @@ I gained experience in signal filtering, noise reduction and analysing signal be
 It also helped me connect the theoretical knowledge gained from my university studies with practical programming.
 
 7. Project Report
-https://drive.google.com/file/d/14ikkH4Wj-u0HgIlTcIAzI3Devs7eiQxk/view?usp=drivesdk
+   https://drive.google.com/file/d/1HKfjzdmEBeL1karyK97dNzQDyVg4_lfW/view?usp=drivesdk
 
-8. Author
+9. Author
 
 Undergraduate BSc Science Student
 Open University of Sri Lanka
